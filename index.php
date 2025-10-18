@@ -199,6 +199,7 @@
                                 <div class="skill-tags">
                                     <span class="skill-tag">Python</span>
                                     <span class="skill-tag">PHP</span>
+                                    <span class="skill-tag">Java</span>
                                     <span class="skill-tag">SQL</span>
                                     <span class="skill-tag">HTML/CSS</span>
                                     <span class="skill-tag">JavaScript</span>
@@ -212,6 +213,9 @@
                                     <span class="skill-tag">Livewire</span>
                                     <span class="skill-tag">Flask</span>
                                     <span class="skill-tag">Bootstrap</span>
+                                    <span class="skill-tag">React</span>
+                                    <span class="skill-tag">Git</span>
+
                                 </div>
                             </div>
                             <div class="skill-group">
@@ -221,6 +225,7 @@
                                     <span class="skill-tag">SQLite</span>
                                     <span class="skill-tag">MariaDB</span>
                                     <span class="skill-tag">PostgreSQL</span>
+                                    <span class="skill-tag">MongoDB</span>
                                 </div>
                             </div>
                         </div>
