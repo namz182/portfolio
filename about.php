@@ -2,7 +2,6 @@
 <div class="container-fluid">
     <div class="row justify-content-center">
         <div class="col-12 col-md-6 col-lg-6">
-            <!-- About Header -->
             <div class="page-header">
                 <div class="d-flex align-items-center mb-4">
                     <div class="status-dot me-2"></div>
@@ -12,9 +11,7 @@
                     cybersecurity and web development.</p>
             </div>
 
-            <!-- About Content -->
             <div class="about-content">
-                <!-- Personal Story -->
                 <div class="content-section">
                     <h2 class="section-heading">
                         <i class="fas fa-user-circle me-2"></i>
@@ -42,9 +39,17 @@
                         <div class="timeline-item">
                             <div class="timeline-marker"></div>
                             <div class="timeline-content">
-                                <h3>Zambia Univery College of Technology</h3>
-                                <p class="timeline-date">2023 - Present</p>
-                                <p>Bachelor of Cyber Security.</p>
+                                <h3>Kanshi Police Station</h3>
+                                <p class="timeline-date">2025 (16 - 17 Oct)</p>
+                                <p>Digital Forensics Analyst</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h3>Zamren Hackathon</h3>
+                                <p class="timeline-date">2025 (01 - 06 Sept)</p>
+                                <p>Cyber Security project to detect threats in real time</p>
                             </div>
                         </div>
                         <div class="timeline-item">
@@ -69,6 +74,15 @@
                                 <h3>Secure our world CTF</h3>
                                 <p class="timeline-date">2024</p>
                                 <p>Web penetration tester.</p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="timeline-item">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h3>Zambia Univery College of Technology</h3>
+                                <p class="timeline-date">2023 - Present</p>
+                                <p>Bachelor of Cyber Security.</p>
                             </div>
                         </div>
                         <div class="timeline-item">
