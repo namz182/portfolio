@@ -39,7 +39,7 @@
                         <div class="timeline-item">
                             <div class="timeline-marker"></div>
                             <div class="timeline-content">
-                                <h3>Kanshi Police Station</h3>
+                                <h3>Kansenshi Police Station</h3>
                                 <p class="timeline-date">2025 (16 - 17 Oct)</p>
                                 <p>Digital Forensics Analyst</p>
                             </div>
